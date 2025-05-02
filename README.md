@@ -1,1 +1,1 @@
-# youtube-lecture-summarizer
+# YouTube Lecture Summarizer with Visual Timeline
