@@ -1,0 +1,6 @@
+youtube-transcript-api
+transformers
+torch
+reportlab
+yt-dlp
+opencv-python
